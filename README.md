@@ -1,6 +1,4 @@
-<h3 align="left">Hi 👋! My name is Om and I'm a Python Programmer.</h3>
-
-<hr>
+<h1 align="left">Hi 👋! My name is Om and I'm a Python Programmer.</h1>
 
 ###
 
@@ -28,7 +26,7 @@
 
 ###
 
-<h4 align="left">I code with:</h4>
+<h3 align="left">I code with:</h3>
 
 ###
 
@@ -50,7 +48,7 @@
 
 ###
 
-<h4 align="left">Libraries I utilize:</h4>
+<h3 align="left">Libraries I utilize:</h3>
 
 ###
 
@@ -72,7 +70,7 @@
 
 ###
 
-<h4 align="left">Tools I employ:</h4>
+<h3 align="left">Tools I employ:</h3>
 
 ###
 
